@@ -8,8 +8,8 @@
 
 ## Demo
 
-[![Download 64Bit](https://img.shields.io/badge/Download%20APK-64%20bit-brightgreen)](https://github.com/atiqsamtia/WordPress-App-with-Flutter/releases/latest/download/app-arm64-v8a-release.apk)
-[![Download 64Bit](https://img.shields.io/badge/Download%20APK-32%20bit-brightgreen)](https://github.com/atiqsamtia/WordPress-App-with-Flutter/releases/latest/download/app-armeabi-v7a-release.apk)
+[![Download 64Bit](https://img.shields.io/badge/Download%20APK-64%20bit-brightgreen)](https://github.com/SMILES00714/WordPress-App-with-Flutter/releases/latest/download/app-arm64-v8a-release.apk)
+[![Download 64Bit](https://img.shields.io/badge/Download%20APK-32%20bit-brightgreen)](https://github.com/SMILES00714/WordPress-App-with-Flutter/releases/latest/download/app-armeabi-v7a-release.apk)
 
 ![](Demo.gif)
 
@@ -21,7 +21,7 @@ These are he requirements to run this App
 ## Getting Started
 clone this repo
 ```
-git clone https://github.com/atiqsamtia/WordPress-App-with-Flutter.git wordpress_flutter
+git clone https://github.com/SMILES00714/WordPress-App-with-Flutter.git wordpress_flutter
 ```
 Change <code>TITLE</code> and <code>URL</code> according to your website in <code>lib/config.dart</code> file.
 
@@ -57,15 +57,15 @@ It is that simple.
 
 ## Meta
 
-Atiq Samtia– [@AtiqSamtia](https://twitter.com/atiqsamtia) – me@atiqsamtia.com
+Atiq Samtia– [@AtiqSamtia](https://twitter.com/SMILES00714) – me@atiqsamtia.com
 
 Distributed under the GPL3 license.
 
-[https://github.com/atiqsamtia/WordPress-App-with-Flutter](https://github.com/atiqsamtia/WordPress-App-with-Flutter)
+[https://github.com/atiqsamtia/WordPress-App-with-Flutter](https://github.com/SMILES00714/WordPress-App-with-Flutter)
 
 ## Contributing
 
-1. Fork it (<https://github.com/atiqsamtia/WordPress-App-with-Flutter/fork>)
+1. Fork it (<https://github.com/SMILES00714/WordPress-App-with-Flutter/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
