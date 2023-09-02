@@ -57,11 +57,10 @@ It is that simple.
 
 ## Meta
 
-Atiq Samtia– [@AtiqSamtia](https://twitter.com/SMILES00714) – me@atiqsamtia.com
 
 Distributed under the GPL3 license.
 
-[https://github.com/atiqsamtia/WordPress-App-with-Flutter](https://github.com/SMILES00714/WordPress-App-with-Flutter)
+[https://github.com/SMILES00714/WordPress-App-with-Flutter](https://github.com/SMILES00714/WordPress-App-with-Flutter)
 
 ## Contributing
 
